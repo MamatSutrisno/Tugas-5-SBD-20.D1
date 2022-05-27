@@ -8,7 +8,7 @@ Melakukan star Apache dan MySQL
 ![1](https://user-images.githubusercontent.com/101656195/170502954-681d39f2-3ade-4eaa-989a-fb78ea6d913a.png)
 
 Membuat Koneksi.php
-![11](https://user-images.githubusercontent.com/101656195/170504091-54589b5a-dade-4385-ab5a-6c28428128ea.png)
+![12](https://user-images.githubusercontent.com/101656195/170701054-ec4a09f0-1813-4dcb-87b4-370a95ba2b2a.png)
 
 Membuat Index.php
 ![2](https://user-images.githubusercontent.com/101656195/170503003-d298a79a-11ff-41c6-a3b0-72613223b747.png)
